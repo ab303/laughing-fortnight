@@ -1,6 +1,7 @@
 # multithreaded-file-server
 This is an implementaion of single server and multiple clients model.
 Client can request server to upload, download, rename and delete files.
+The communicstion is established using TCP sockets.
 Server handles the requests from different clients simultaneously by multi threading.
 resouce locking mechanisms have not been used.
 
