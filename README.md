@@ -26,7 +26,7 @@ To run the program:
 
 2. Run the client
 
- - ./client SERVER_IP <command> <target-filename>
+ - ./client SERVER_IP command target-filename
 
 
 
